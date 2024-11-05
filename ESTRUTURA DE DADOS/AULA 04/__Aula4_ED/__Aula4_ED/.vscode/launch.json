@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "__Aula4_ED",
+            "request": "launch",
+            "mainClass": "__Aula4_ED",
+            "projectName": "__Aula4_ED"
+        },
+        {
+            "type": "java",
+            "name": "__Aula4_ED",
+            "request": "launch",
+            "mainClass": "__Aula4_ED/__Aula4_ED.__Aula4_ED",
+            "projectName": "__Aula4_ED"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "__Aula4_ED.__Aula4_ED",
+            "projectName": "__Aula4_ED"
+        },
+        {
+            "type": "java",
+            "name": "__Aula4_ED",
+            "request": "launch",
+            "mainClass": "__Aula4_ED.__Aula4_ED",
+            "projectName": "__Aula4_ED"
+        }
+    ]
+}
